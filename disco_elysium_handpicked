@@ -260,6 +260,7 @@ KIM KITSURAGI - "I feel sorry for the goats. If they only knew the kind of guy o
 YOU - "Wait, what 'kind of guy' was he then?"
 
 KIM KITSURAGI - "The kind of a guy who uses the word 'savages' a lot when recounting his travels. A Mesque nationalist."
+
 YOU - "A racist mountaineer?"
 
 KIM KITSURAGI - "An avid huntsman too," the lieutenant adds. "He was often photographed in his dining hall, surrounded by wall-mounted hunting trophies from every continent."
@@ -314,11 +315,11 @@ REACTION SPEED - You didn't *just* win, you absolute legend, you joined a very e
 
 REACTION SPEED - Too bad no one was around to witness your triumph. It was a 'high score' after all.
 
-YOU - "It's time to move on." [Leave.]
+YOU - "It's time to move on."
 
 KIM KITSURAGI - "Yes." The lieutenant gives 'CORNELIUS GURDI AND THE MOUNTAIN GOATS' one last look. "Good times."
 
-Cornelius Gurdi and the Mountain Goats - Once again the machine becomes one with the dust and the darkness.
+CORNELIUS GURDI AND THE MOUNTAIN GOATS - Once again the machine becomes one with the dust and the darkness.
 
 INLAND EMPIRE - Life has left it, unlikely to ever return.
 %
