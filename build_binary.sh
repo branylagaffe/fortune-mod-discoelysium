@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-set -xe
+set -e
 
-ls -1 disco_elysium_* | xargs -I {} strfile -c % {}
+ls -1 disco_elysium_* | grep -E '^[^.]+$' | xargs -I {} strfile -c % {}
