@@ -3,9 +3,9 @@
 # NOTE: Please fill out the license field for your package! If it is unknown,
 # then please put 'unknown'.
 
-# Maintainer: Bryan Perdrizat <bryan.perdrizat@gmail.com>
+# Maintainer: Brany <code@garage-c0.re>
 pkgname=fortune-mod-discoelysium
-pkgver=2024.08
+pkgver=2025.08
 pkgrel=1
 epoch=
 pkgdesc="Cherry picked quotes of the game Disco Elysium"
@@ -13,8 +13,6 @@ arch=('any')
 url=""
 license=('GPL')
 groups=('fortune-mods')
-depends=('fortune-mod')
-makedepends=()
 checkdepends=()
 optdepends=()
 provides=()
@@ -22,13 +20,15 @@ conflicts=()
 replaces=()
 backup=()
 options=()
-install=
+install=()
 changelog=
-source=("$pkgname-$pkgver.tar.gz"
-        "$pkgname-$pkgver.patch")
 noextract=()
-sha256sums=()
 validpgpkeys=()
+
+makedepends=()
+depends=('fortune-mod')
+source=()
+sha256sums=()
 
 prepare() { }
 
